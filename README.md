@@ -2,4 +2,4 @@
 
 Experimentation of log manager
 
-__TODO :__Documentation of this project
+__TODO :__ Documentation of this project
