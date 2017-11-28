@@ -4,4 +4,4 @@
 
 Experimentation of Powershell with a log manager
 
-__TODO :__ Documentation of this project
+__TODO :__ Documentation of this project...
